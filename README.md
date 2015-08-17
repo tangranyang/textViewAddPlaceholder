@@ -1,0 +1,2 @@
+# textViewAddPlaceholder
+让textView显示PlaceHolder提示
